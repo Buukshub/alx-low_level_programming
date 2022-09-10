@@ -30,11 +30,11 @@ int main(void)
 				{
 					putchar(44);
 					putchar(32);
-					k++;
+					              k++;
 				}
-				        j++;
+				                      j++;  
 			}
-			                i++;
+			                              i++;
 		}
 		                        putchar(10)
 						return (0);
