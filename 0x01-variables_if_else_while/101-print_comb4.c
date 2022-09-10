@@ -30,12 +30,12 @@ int main(void)
 				{
 					putchar(44);
 					putchar(32);
-					              k++;
-				                      }
-				                      j++;
-			                              }
-			                              i++;
-		                                      }
-		                                      putchar(10);
-						      return (0);
+					k++;
+				}
+				        j++;
+			}
+			                i++;
+		}
+		                        putchar(10)
+						return (0);
 	}
