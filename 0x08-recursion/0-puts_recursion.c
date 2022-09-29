@@ -5,7 +5,7 @@
  *
  * @s: pointer that has the address of the string to be printed
  *
- * Return: Always 0.
+ * Return: nothing
  */
 void _puts_recursion(char *s)
 {
