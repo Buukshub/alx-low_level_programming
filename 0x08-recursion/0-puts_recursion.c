@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _puts_recursion - prints a string and adds a newline using recursion
+ *_puts_recursion - prints a string and adds a newline using recursion
  *
- * @s: pointer that has the address of the string to be printed
+ *@s: pointer that has the address of the string to be printed
  *
- * Return: nothing
+ *Return: nothing
  */
 void _puts_recursion(char *s)
 {
