@@ -17,7 +17,7 @@ int _strlen(char *s)
 
 /**
  * argstostr - concatenates all the arguments of the program
- * ac: argc
+ * @ac: argc
  * @av: argv
  * Return: array of strings with \n
  */
